@@ -5,7 +5,6 @@ Node is defined as
      Node next;
   }
 */
-
 Node RemoveDuplicates(Node head) {
     if(head == null){
         return head;
